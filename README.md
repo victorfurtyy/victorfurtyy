@@ -11,10 +11,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=3000&pause=1000&color=26BE61&center=true&vCenter=true&width=720&height=40&lines=4%2B+Years+Building+High-Impact+Web+%26+Mobile+Solutions;Bridging+Front-End+Architecture+%2B+Product+Design;Leading+Engineering+Teams+with+Agile+%26+Gitflow;I+build+software+people+love+to+use.)](https://victorfurtyy.com)
 
 <p align="center">
-  <a href="https://victorfurtyy.com"><img src="https://img.shields.io/badge/Portfolio-victorfurtyy.com-141414?style=for-the-badge&logo=googlechrome&logoColor=26be61&labelColor=141414&color=26be61"/></a>
-  <a href="https://www.linkedin.com/in/victorfurtyy/"><img src="https://img.shields.io/badge/LinkedIn-Victor_Furtado-141414?style=for-the-badge&logo=linkedin&logoColor=26be61&labelColor=141414&color=26be61"/></a>
-  <a href="mailto:carlos.dasilva@jala.university"><img src="https://img.shields.io/badge/Email-Jala_University-141414?style=for-the-badge&logo=gmail&logoColor=26be61&labelColor=141414&color=26be61"/></a>
-  <a href="https://discordapp.com/users/victorfurtyy"><img src="https://img.shields.io/badge/Discord-victorfurtyy-141414?style=for-the-badge&logo=discord&logoColor=26be61&labelColor=141414&color=26be61"/></a>
+  <a href="https://victorfurtyy.com"><img src="https://img.shields.io/badge/Portfolio-victorfurtyy.com-21262d?style=for-the-badge&logo=googlechrome&logoColor=26be61&labelColor=21262d&color=26be61"/></a>
+  <a href="https://www.linkedin.com/in/victorfurtyy/"><img src="https://img.shields.io/badge/LinkedIn-Victor_Furtado-21262d?style=for-the-badge&logo=linkedin&logoColor=26be61&labelColor=21262d&color=26be61"/></a>
+  <a href="mailto:carlos.dasilva@jala.university"><img src="https://img.shields.io/badge/Email-Jala_University-21262d?style=for-the-badge&logo=gmail&logoColor=26be61&labelColor=21262d&color=26be61"/></a>
+  <a href="https://discordapp.com/users/victorfurtyy"><img src="https://img.shields.io/badge/Discord-victorfurtyy-21262d?style=for-the-badge&logo=discord&logoColor=26be61&labelColor=21262d&color=26be61"/></a>
 </p>
 
 <p align="center">
@@ -35,20 +35,11 @@ DEVELOPER PROFILE — Carlos Victor Furtado
   Focus       │  Front-End Architecture · UX/UI · Scalable Systems
   Education   │  B.S. Software Engineering — Jala University (2023–2027)
   Location    │  Brazil 🇧🇷
-  Status      │  Open to Global Internship & Engineering Client Roles
+  Status      │  Open to opportunities
 ───────────────────────────────────────────────────────────────────────
 ```
 
-I am a **Full Stack Developer and Tech Lead with over 4 years of experience** architecting high-performance web and mobile systems for real-world clients. What sets me apart is the convergence of **technical depth** with **UX/UI & Product Design** — ensuring that every system is not only clean and performant under the hood, but intuitive and frictionless for users.
-
-I have led teams of developers, refactored mission-critical production systems, and consistently delivered measurable business outcomes:
-
-| Key Objective | Quantifiable Result |
-|---|---|
-| 🚀 **Delivery Velocity** | **+45%** increase after team refactoring and workflow optimization |
-| 📈 **User Engagement** | **+120%** growth through user-centric context-gap reduction |
-| 🎯 **Interface Errors** | **−50%** reduction in UI friction points via UX audit & redesign |
-| ⚡ **Database Efficiency** | **−12%** latency in data query response times after index optimization |
+I am a **Full Stack Developer and Tech Lead with over 4 years of experience** architecting high-performance web and mobile systems for real-world clients. What sets me apart is the convergence of **technical depth** with **UX/UI & Product Design**, ensuring that every system is not only clean and performant under the hood, but intuitive and frictionless for users.
 
 ---
 
@@ -58,15 +49,15 @@ I have led teams of developers, refactored mission-critical production systems, 
 <table>
   <tr>
     <td align="left" width="33%" valign="top">
-      <h4>🖥️ Front-End Architecture</h4>
+      <h4><img src="https://cdn.simpleicons.org/blueprint/26be61" width="16" height="16" align="center" /> Front-End Architecture</h4>
       Building robust, component-driven applications with <b>Vue.js</b>, <b>Angular</b>, and <b>React</b>. Focused on state management, responsive patterns, modularity, and web performance.
     </td>
     <td align="left" width="33%" valign="top">
-      <h4>🎨 Product & UX Design</h4>
+      <h4><img src="https://cdn.simpleicons.org/figma/26be61" width="16" height="16" align="center" /> Product & UX Design</h4>
       Bridging engineering and user experience. From user journey mapping in <b>Figma</b> to pixel-perfect design systems, cutting user cognitive load and interface mistakes.
     </td>
     <td align="left" width="33%" valign="top">
-      <h4>🤝 Tech Leadership & Delivery</h4>
+      <h4><img src="https://cdn.simpleicons.org/git/26be61" width="16" height="16" align="center" /> Tech Leadership & Delivery</h4>
       Led an engineering squad of 5 developers using structured <b>Gitflow</b>, sprint planning, rigorous code reviews, and proactive mentorship to drive timely releases.
     </td>
   </tr>
@@ -79,36 +70,38 @@ I have led teams of developers, refactored mission-critical production systems, 
 
 <p><b>Frontend & Architecture</b></p>
 <p>
-  <img src="https://img.shields.io/badge/Vue.js-141414?style=for-the-badge&logo=vuedotjs&logoColor=26be61"/>
-  <img src="https://img.shields.io/badge/Angular-141414?style=for-the-badge&logo=angular&logoColor=26be61"/>
-  <img src="https://img.shields.io/badge/React-141414?style=for-the-badge&logo=react&logoColor=26be61"/>
-  <img src="https://img.shields.io/badge/TypeScript-141414?style=for-the-badge&logo=typescript&logoColor=26be61"/>
-  <img src="https://img.shields.io/badge/JavaScript-141414?style=for-the-badge&logo=javascript&logoColor=26be61"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-141414?style=for-the-badge&logo=tailwindcss&logoColor=26be61"/>
+  <img src="https://img.shields.io/badge/Vue.js-21262d?style=for-the-badge&logo=vuedotjs&logoColor=26be61"/>
+  <img src="https://img.shields.io/badge/Angular-21262d?style=for-the-badge&logo=angular&logoColor=26be61"/>
+  <img src="https://img.shields.io/badge/React-21262d?style=for-the-badge&logo=react&logoColor=26be61"/>
+  <img src="https://img.shields.io/badge/TypeScript-21262d?style=for-the-badge&logo=typescript&logoColor=26be61"/>
+  <img src="https://img.shields.io/badge/JavaScript-21262d?style=for-the-badge&logo=javascript&logoColor=26be61"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-21262d?style=for-the-badge&logo=tailwindcss&logoColor=26be61"/>
 </p>
 
 <p><b>Backend & Cloud Infrastructure</b></p>
 <p>
-  <img src="https://img.shields.io/badge/Node.js-141414?style=for-the-badge&logo=nodedotjs&logoColor=26be61"/>
-  <img src="https://img.shields.io/badge/PHP-141414?style=for-the-badge&logo=php&logoColor=26be61"/>
-  <img src="https://img.shields.io/badge/Symfony-141414?style=for-the-badge&logo=symfony&logoColor=26be61"/>
-  <img src="https://img.shields.io/badge/MySQL-141414?style=for-the-badge&logo=mysql&logoColor=26be61"/>
-  <img src="https://img.shields.io/badge/AWS-141414?style=for-the-badge&logo=amazonwebservices&logoColor=26be61"/>
+  <img src="https://img.shields.io/badge/Node.js-21262d?style=for-the-badge&logo=nodedotjs&logoColor=26be61"/>
+  <img src="https://img.shields.io/badge/PHP-21262d?style=for-the-badge&logo=php&logoColor=26be61"/>
+  <img src="https://img.shields.io/badge/Symfony-21262d?style=for-the-badge&logo=symfony&logoColor=26be61"/>
+  <img src="https://img.shields.io/badge/MySQL-21262d?style=for-the-badge&logo=mysql&logoColor=26be61"/>
+  <img src="https://img.shields.io/badge/AWS-21262d?style=for-the-badge&logo=amazonwebservices&logoColor=26be61"/>
 </p>
 
-<p><b>Cross-Platform Mobile</b></p>
+<p><b>Mobile & Cross-Platform</b></p>
 <p>
-  <img src="https://img.shields.io/badge/Ionic-141414?style=for-the-badge&logo=ionic&logoColor=26be61"/>
-  <img src="https://img.shields.io/badge/Capacitor-141414?style=for-the-badge&logo=capacitor&logoColor=26be61"/>
-  <img src="https://img.shields.io/badge/PWA-141414?style=for-the-badge&logo=pwa&logoColor=26be61"/>
+  <img src="https://img.shields.io/badge/Android_Studio-21262d?style=for-the-badge&logo=androidstudio&logoColor=26be61"/>
+  <img src="https://img.shields.io/badge/iOS_Development-21262d?style=for-the-badge&logo=apple&logoColor=26be61"/>
+  <img src="https://img.shields.io/badge/Ionic-21262d?style=for-the-badge&logo=ionic&logoColor=26be61"/>
+  <img src="https://img.shields.io/badge/Capacitor-21262d?style=for-the-badge&logo=capacitor&logoColor=26be61"/>
+  <img src="https://img.shields.io/badge/PWA-21262d?style=for-the-badge&logo=pwa&logoColor=26be61"/>
 </p>
 
 <p><b>Product Design & Workflow</b></p>
 <p>
-  <img src="https://img.shields.io/badge/Figma-141414?style=for-the-badge&logo=figma&logoColor=26be61"/>
-  <img src="https://img.shields.io/badge/Git-141414?style=for-the-badge&logo=git&logoColor=26be61"/>
-  <img src="https://img.shields.io/badge/Docker-141414?style=for-the-badge&logo=docker&logoColor=26be61"/>
-  <img src="https://img.shields.io/badge/Linux-141414?style=for-the-badge&logo=linux&logoColor=26be61"/>
+  <img src="https://img.shields.io/badge/Figma-21262d?style=for-the-badge&logo=figma&logoColor=26be61"/>
+  <img src="https://img.shields.io/badge/Git-21262d?style=for-the-badge&logo=git&logoColor=26be61"/>
+  <img src="https://img.shields.io/badge/Docker-21262d?style=for-the-badge&logo=docker&logoColor=26be61"/>
+  <img src="https://img.shields.io/badge/Linux-21262d?style=for-the-badge&logo=linux&logoColor=26be61"/>
 </p>
 
 ---
@@ -119,7 +112,7 @@ I have led teams of developers, refactored mission-critical production systems, 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🗺️ Geolocation Management System</h3>
+      <h3><img src="https://cdn.simpleicons.org/googlemaps/26be61" width="18" height="18" align="center" /> Geolocation Management System</h3>
       <p><em>Enterprise operational console with a 6-state workflow, refactored and maintained for a private engineering client.</em></p>
       <ul>
         <li><b>Leadership:</b> Directed 5 developers through Gitflow sprints.</li>
@@ -128,15 +121,15 @@ I have led teams of developers, refactored mission-critical production systems, 
         <li><b>Backend:</b> Symfony + MySQL optimization cutting query times by <b>12%</b>.</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/Vue.js-1a3d28?style=flat-square&logoColor=26be61&logo=vuedotjs"/>
-        <img src="https://img.shields.io/badge/PHP_Symfony-1a3d28?style=flat-square&logoColor=26be61&logo=symfony"/>
-        <img src="https://img.shields.io/badge/MySQL-1a3d28?style=flat-square&logoColor=26be61&logo=mysql"/>
-        <img src="https://img.shields.io/badge/AWS-1a3d28?style=flat-square&logoColor=26be61&logo=amazonwebservices"/>
+        <img src="https://img.shields.io/badge/Vue.js-21262d?style=flat-square&logoColor=26be61&logo=vuedotjs"/>
+        <img src="https://img.shields.io/badge/PHP_Symfony-21262d?style=flat-square&logoColor=26be61&logo=symfony"/>
+        <img src="https://img.shields.io/badge/MySQL-21262d?style=flat-square&logoColor=26be61&logo=mysql"/>
+        <img src="https://img.shields.io/badge/AWS-21262d?style=flat-square&logoColor=26be61&logo=amazonwebservices"/>
       </p>
       <p><sub>🔒 <i>Production enterprise application — proprietary client code under NDA</i></sub></p>
     </td>
     <td width="50%" valign="top">
-      <h3>✅ Canvas Task Tracker <a href="https://canvas-task-tracker.victorfurtyy.com/"><img src="https://img.shields.io/badge/Live_Beta-26be61?style=flat-square&labelColor=141414&logoColor=141414"/></a></h3>
+      <h3><img src="https://cdn.simpleicons.org/trello/26be61" width="18" height="18" align="center" /> Canvas Task Tracker <a href="https://canvas-task-tracker.victorfurtyy.com/"><img src="https://img.shields.io/badge/Live_Beta-26be61?style=flat-square&labelColor=21262d&logoColor=141414"/></a></h3>
       <p><em>Spatial task orchestration tool replacing rigid lists with an infinite interactive canvas.</em></p>
       <ul>
         <li><b>Concept:</b> Spatial organization reducing cognitive friction for power users.</li>
@@ -145,16 +138,16 @@ I have led teams of developers, refactored mission-critical production systems, 
         <li><b>Stack:</b> High-performance front-end architecture with TypeScript.</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/Vue.js-1a3d28?style=flat-square&logoColor=26be61&logo=vuedotjs"/>
-        <img src="https://img.shields.io/badge/TypeScript-1a3d28?style=flat-square&logoColor=26be61&logo=typescript"/>
-        <img src="https://img.shields.io/badge/Figma-1a3d28?style=flat-square&logoColor=26be61&logo=figma"/>
+        <img src="https://img.shields.io/badge/Vue.js-21262d?style=flat-square&logoColor=26be61&logo=vuedotjs"/>
+        <img src="https://img.shields.io/badge/TypeScript-21262d?style=flat-square&logoColor=26be61&logo=typescript"/>
+        <img src="https://img.shields.io/badge/Figma-21262d?style=flat-square&logoColor=26be61&logo=figma"/>
       </p>
       <p><a href="https://canvas-task-tracker.victorfurtyy.com/"><b>🔗 Open App: canvas-task-tracker.victorfurtyy.com</b></a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📱 Mobile Solutions & Client PWAs</h3>
+      <h3><img src="https://cdn.simpleicons.org/android/26be61" width="18" height="18" align="center" /> Mobile Solutions & Client PWAs</h3>
       <p><em>Cross-platform mobile applications and operational dashboards engineered for digital agency clients.</em></p>
       <ul>
         <li><b>Mobile:</b> Multi-platform deployment (iOS / Android) with Ionic & Capacitor.</li>
@@ -163,14 +156,14 @@ I have led teams of developers, refactored mission-critical production systems, 
         <li><b>APIs:</b> REST API integration with real-time device sensor hooks.</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/Angular-1a3d28?style=flat-square&logoColor=26be61&logo=angular"/>
-        <img src="https://img.shields.io/badge/Ionic-1a3d28?style=flat-square&logoColor=26be61&logo=ionic"/>
-        <img src="https://img.shields.io/badge/Capacitor-1a3d28?style=flat-square&logoColor=26be61&logo=capacitor"/>
+        <img src="https://img.shields.io/badge/Angular-21262d?style=flat-square&logoColor=26be61&logo=angular"/>
+        <img src="https://img.shields.io/badge/Ionic-21262d?style=flat-square&logoColor=26be61&logo=ionic"/>
+        <img src="https://img.shields.io/badge/Capacitor-21262d?style=flat-square&logoColor=26be61&logo=capacitor"/>
       </p>
       <p><sub>🔒 <i>Agency client work — built for client operations</i></sub></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🌐 Developer Console & Portfolio</h3>
+      <h3><img src="https://cdn.simpleicons.org/googlechrome/26be61" width="18" height="18" align="center" /> Developer Console & Portfolio</h3>
       <p><em>Personal brand hub embodying the Emerald-Cyber aesthetic and technical console specification.</em></p>
       <ul>
         <li><b>Design System:</b> High-contrast ergonomics, Space Grotesk typography, and emerald accents.</li>
@@ -178,9 +171,9 @@ I have led teams of developers, refactored mission-critical production systems, 
         <li><b>Showcase:</b> Interactive portfolio highlighting case studies and architecture decisions.</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/Vue.js-1a3d28?style=flat-square&logoColor=26be61&logo=vuedotjs"/>
-        <img src="https://img.shields.io/badge/TypeScript-1a3d28?style=flat-square&logoColor=26be61&logo=typescript"/>
-        <img src="https://img.shields.io/badge/Figma-1a3d28?style=flat-square&logoColor=26be61&logo=figma"/>
+        <img src="https://img.shields.io/badge/Vue.js-21262d?style=flat-square&logoColor=26be61&logo=vuedotjs"/>
+        <img src="https://img.shields.io/badge/TypeScript-21262d?style=flat-square&logoColor=26be61&logo=typescript"/>
+        <img src="https://img.shields.io/badge/Figma-21262d?style=flat-square&logoColor=26be61&logo=figma"/>
       </p>
       <p><a href="https://victorfurtyy.com"><b>🔗 Visit Site: victorfurtyy.com</b></a></p>
     </td>
@@ -238,8 +231,8 @@ I have led teams of developers, refactored mission-critical production systems, 
 
 ### *"I build software people love to use."*
 
-[![Connect on LinkedIn](https://img.shields.io/badge/Let's_Connect-26be61?style=for-the-badge&logo=linkedin&labelColor=141414&logoColor=26be61)](https://www.linkedin.com/in/victorfurtyy/)
-[![Send Email](https://img.shields.io/badge/Contact_Me-141414?style=for-the-badge&logo=gmail&labelColor=141414&logoColor=26be61)](mailto:carlos.dasilva@jala.university)
+[![Connect on LinkedIn](https://img.shields.io/badge/Let's_Connect-26be61?style=for-the-badge&logo=linkedin&labelColor=21262d&logoColor=26be61)](https://www.linkedin.com/in/victorfurtyy/)
+[![Send Email](https://img.shields.io/badge/Contact_Me-21262d?style=for-the-badge&logo=gmail&labelColor=21262d&logoColor=26be61)](mailto:carlos.dasilva@jala.university)
 
 <br/>
 
