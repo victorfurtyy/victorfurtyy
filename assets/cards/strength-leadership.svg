@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 270 205" width="100%" height="100%">
+  <defs>
+    <style>
+      .bg { fill: #141414; stroke: #26be61; stroke-width: 1.5; rx: 10px; }
+      .eyebrow { font-family: 'Space Grotesk', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 9.5px; font-weight: 700; fill: #26be61; letter-spacing: 0.14em; }
+      .title { font-family: 'Space Grotesk', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 15px; font-weight: 700; fill: #ffffff; }
+      .body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 11.5px; fill: #a8b0ab; line-height: 1.5; }
+      .tag-bg { fill: #1a3d28; stroke: #26be61; stroke-opacity: 0.4; stroke-width: 1; rx: 4px; }
+      .tag-text { font-family: 'Space Grotesk', -apple-system, BlinkMacSystemFont, sans-serif; font-size: 9.5px; font-weight: 600; fill: #33d975; }
+      .accent-line { stroke: #26be61; stroke-width: 3; stroke-linecap: round; }
+    </style>
+  </defs>
+
+  <!-- Container Box -->
+  <rect x="1" y="1" width="268" height="203" class="bg" />
+
+  <!-- Accent indicator -->
+  <line x1="16" y1="22" x2="16" y2="44" class="accent-line" />
+
+  <!-- Eyebrow -->
+  <text x="26" y="24" class="eyebrow">// EXECUTION</text>
+
+  <!-- Title -->
+  <text x="26" y="44" class="title">Tech Leadership &amp; Delivery</text>
+
+  <!-- Description lines -->
+  <g transform="translate(16, 70)" class="body">
+    <text x="0" y="0">Led a squad of 5 developers using</text>
+    <text x="0" y="17">structured Gitflow, sprint planning,</text>
+    <text x="0" y="34">rigorous code reviews, and proactive</text>
+    <text x="0" y="51">mentorship to drive on-time delivery.</text>
+  </g>
+
+  <!-- Tags -->
+  <g transform="translate(16, 160)">
+    <rect x="0" y="0" width="56" height="20" class="tag-bg" />
+    <text x="28" y="14" class="tag-text" text-anchor="middle">Gitflow</text>
+
+    <rect x="62" y="0" width="66" height="20" class="tag-bg" />
+    <text x="95" y="14" class="tag-text" text-anchor="middle">Team Lead</text>
+
+    <rect x="134" y="0" width="76" height="20" class="tag-bg" />
+    <text x="172" y="14" class="tag-text" text-anchor="middle">Agile Sprints</text>
+  </g>
+</svg>

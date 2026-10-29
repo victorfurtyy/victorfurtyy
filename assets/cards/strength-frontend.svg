@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 270 205" width="100%" height="100%">
+  <defs>
+    <style>
+      .bg { fill: #141414; stroke: #26be61; stroke-width: 1.5; rx: 10px; }
+      .eyebrow { font-family: 'Space Grotesk', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 9.5px; font-weight: 700; fill: #26be61; letter-spacing: 0.14em; }
+      .title { font-family: 'Space Grotesk', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 15px; font-weight: 700; fill: #ffffff; }
+      .body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 11.5px; fill: #a8b0ab; line-height: 1.5; }
+      .tag-bg { fill: #1a3d28; stroke: #26be61; stroke-opacity: 0.4; stroke-width: 1; rx: 4px; }
+      .tag-text { font-family: 'Space Grotesk', -apple-system, BlinkMacSystemFont, sans-serif; font-size: 9.5px; font-weight: 600; fill: #33d975; }
+      .accent-line { stroke: #26be61; stroke-width: 3; stroke-linecap: round; }
+    </style>
+  </defs>
+
+  <!-- Container Box -->
+  <rect x="1" y="1" width="268" height="203" class="bg" />
+
+  <!-- Accent indicator -->
+  <line x1="16" y1="22" x2="16" y2="44" class="accent-line" />
+
+  <!-- Eyebrow -->
+  <text x="26" y="24" class="eyebrow">// ARCHITECTURE</text>
+
+  <!-- Title -->
+  <text x="26" y="44" class="title">Front-End Architecture</text>
+
+  <!-- Description lines -->
+  <g transform="translate(16, 70)" class="body">
+    <text x="0" y="0">Building robust, component-driven</text>
+    <text x="0" y="17">applications with Vue, Angular, and</text>
+    <text x="0" y="34">React. Focused on scalable state,</text>
+    <text x="0" y="51">modularity, and web performance.</text>
+  </g>
+
+  <!-- Tags -->
+  <g transform="translate(16, 160)">
+    <rect x="0" y="0" width="50" height="20" class="tag-bg" />
+    <text x="25" y="14" class="tag-text" text-anchor="middle">Vue.js</text>
+
+    <rect x="56" y="0" width="56" height="20" class="tag-bg" />
+    <text x="84" y="14" class="tag-text" text-anchor="middle">Angular</text>
+
+    <rect x="118" y="0" width="50" height="20" class="tag-bg" />
+    <text x="143" y="14" class="tag-text" text-anchor="middle">React</text>
+
+    <rect x="174" y="0" width="60" height="20" class="tag-bg" />
+    <text x="204" y="14" class="tag-text" text-anchor="middle">TypeScript</text>
+  </g>
+</svg>

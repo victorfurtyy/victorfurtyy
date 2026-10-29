@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 230" width="100%" height="100%">
+  <defs>
+    <style>
+      .bg { fill: #141414; stroke: #26be61; stroke-width: 1.5; rx: 10px; }
+      .eyebrow { font-family: 'Space Grotesk', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 10px; font-weight: 700; fill: #26be61; letter-spacing: 0.14em; }
+      .title { font-family: 'Space Grotesk', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 17px; font-weight: 700; fill: #ffffff; }
+      .desc { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 11.5px; fill: #a8b0ab; }
+      .bullet { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 11px; fill: #e0e0e0; }
+      .bullet-icon { fill: #26be61; font-weight: bold; }
+      .tag-bg { fill: #1a3d28; stroke: #26be61; stroke-opacity: 0.4; stroke-width: 1; rx: 4px; }
+      .tag-text { font-family: 'Space Grotesk', -apple-system, BlinkMacSystemFont, sans-serif; font-size: 10px; font-weight: 600; fill: #33d975; }
+      .badge-bg { fill: #1a3d28; rx: 4px; }
+      .badge-text { font-family: 'Space Grotesk', -apple-system, BlinkMacSystemFont, sans-serif; font-size: 9.5px; font-weight: 700; fill: #26be61; letter-spacing: 0.08em; }
+    </style>
+  </defs>
+
+  <!-- Container Box -->
+  <rect x="1" y="1" width="418" height="228" class="bg" />
+
+  <!-- Eyebrow -->
+  <text x="20" y="28" class="eyebrow">// ENTERPRISE MANAGEMENT SYSTEM</text>
+
+  <!-- Status Badge -->
+  <rect x="290" y="15" width="110" height="20" class="badge-bg" />
+  <text x="345" y="29" class="badge-text" text-anchor="middle">🔒 NDA / CLIENT WORK</text>
+
+  <!-- Title -->
+  <text x="20" y="54" class="title">Geolocation Management System</text>
+
+  <!-- Description -->
+  <text x="20" y="74" class="desc">Enterprise operational platform featuring a 6-state workflow engine.</text>
+
+  <!-- Bullets -->
+  <g transform="translate(20, 94)">
+    <text x="0" y="0" class="bullet"><tspan class="bullet-icon">✦ </tspan>Led team of 5 junior developers via Gitflow sprints</text>
+    <text x="0" y="18" class="bullet"><tspan class="bullet-icon">✦ </tspan><tspan font-weight="600" fill="#ffffff">+45%</tspan> delivery velocity &amp; <tspan font-weight="600" fill="#ffffff">+120%</tspan> user engagement</text>
+    <text x="0" y="36" class="bullet"><tspan class="bullet-icon">✦ </tspan><tspan font-weight="600" fill="#ffffff">-50%</tspan> UI errors &amp; <tspan font-weight="600" fill="#ffffff">-12%</tspan> backend query latency</text>
+    <text x="0" y="54" class="bullet"><tspan class="bullet-icon">✦ </tspan>Full Gitflow pipeline &amp; production AWS cloud deployment</text>
+  </g>
+
+  <!-- Tech Tags -->
+  <g transform="translate(20, 184)">
+    <!-- Vue.js -->
+    <rect x="0" y="0" width="56" height="22" class="tag-bg" />
+    <text x="28" y="15" class="tag-text" text-anchor="middle">Vue.js</text>
+
+    <!-- PHP / Symfony -->
+    <rect x="64" y="0" width="86" height="22" class="tag-bg" />
+    <text x="107" y="15" class="tag-text" text-anchor="middle">PHP / Symfony</text>
+
+    <!-- MySQL -->
+    <rect x="158" y="0" width="56" height="22" class="tag-bg" />
+    <text x="186" y="15" class="tag-text" text-anchor="middle">MySQL</text>
+
+    <!-- AWS -->
+    <rect x="222" y="0" width="46" height="22" class="tag-bg" />
+    <text x="245" y="15" class="tag-text" text-anchor="middle">AWS</text>
+
+    <!-- TypeScript -->
+    <rect x="276" y="0" width="76" height="22" class="tag-bg" />
+    <text x="314" y="15" class="tag-text" text-anchor="middle">TypeScript</text>
+  </g>
+</svg>

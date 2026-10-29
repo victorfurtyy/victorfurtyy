@@ -48,18 +48,9 @@ I am a **Full Stack Developer and Tech Lead with over 4 years of experience** ar
 
 <table>
   <tr>
-    <td align="left" width="33%" valign="top">
-      <p><img src="https://img.shields.io/badge/Front--End_Architecture-21262d?style=for-the-badge&logo=blueprint&logoColor=26be61"/></p>
-      Building robust, component-driven applications with <b>Vue.js</b>, <b>Angular</b>, and <b>React</b>. Focused on state management, responsive patterns, modularity, and web performance.
-    </td>
-    <td align="left" width="33%" valign="top">
-      <p><img src="https://img.shields.io/badge/Product_%26_UX_Design-21262d?style=for-the-badge&logo=figma&logoColor=26be61"/></p>
-      Bridging engineering and user experience. From user journey mapping in <b>Figma</b> to pixel-perfect design systems, cutting user cognitive load and interface mistakes.
-    </td>
-    <td align="left" width="33%" valign="top">
-      <p><img src="https://img.shields.io/badge/Tech_Leadership_%26_Delivery-21262d?style=for-the-badge&logo=git&logoColor=26be61"/></p>
-      Led an engineering squad of 5 developers using structured <b>Gitflow</b>, sprint planning, rigorous code reviews, and proactive mentorship to drive timely releases.
-    </td>
+    <td width="33%" valign="top"><img src="./assets/cards/strength-frontend.svg" width="100%" alt="Front-End Architecture" /></td>
+    <td width="33%" valign="top"><img src="./assets/cards/strength-design.svg" width="100%" alt="Product & UX Design" /></td>
+    <td width="33%" valign="top"><img src="./assets/cards/strength-leadership.svg" width="100%" alt="Tech Leadership & Delivery" /></td>
   </tr>
 </table>
 
@@ -112,73 +103,22 @@ I am a **Full Stack Developer and Tech Lead with over 4 years of experience** ar
 <table>
   <tr>
     <td width="50%" valign="top">
-      <p><img src="https://img.shields.io/badge/Geolocation_Management_System-21262d?style=for-the-badge&logo=googlemaps&logoColor=26be61"/></p>
-      <p><em>Enterprise operational console with a 6-state workflow, refactored and maintained for a private engineering client.</em></p>
-      <ul>
-        <li><b>Leadership:</b> Directed 5 developers through Gitflow sprints.</li>
-        <li><b>Impact:</b> Boosted delivery speed by <b>+45%</b> and client engagement by <b>+120%</b>.</li>
-        <li><b>Architecture:</b> 6-state finite workflow engine with real-time tracking.</li>
-        <li><b>Backend:</b> Symfony + MySQL optimization cutting query times by <b>12%</b>.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Vue.js-21262d?style=flat-square&logoColor=26be61&logo=vuedotjs"/>
-        <img src="https://img.shields.io/badge/PHP_Symfony-21262d?style=flat-square&logoColor=26be61&logo=symfony"/>
-        <img src="https://img.shields.io/badge/MySQL-21262d?style=flat-square&logoColor=26be61&logo=mysql"/>
-        <img src="https://img.shields.io/badge/AWS-21262d?style=flat-square&logoColor=26be61&logo=amazonwebservices"/>
-      </p>
-      <p><sub>🔒 <i>Production enterprise application — proprietary client code under NDA</i></sub></p>
+      <img src="./assets/cards/project-geolocation.svg" width="100%" alt="Geolocation Management System" />
     </td>
     <td width="50%" valign="top">
-      <p>
-        <a href="https://canvas-task-tracker.victorfurtyy.com/"><img src="https://img.shields.io/badge/Canvas_Task_Tracker-21262d?style=for-the-badge&logo=trello&logoColor=26be61"/></a>
-        <a href="https://canvas-task-tracker.victorfurtyy.com/"><img src="https://img.shields.io/badge/Live_Beta-26be61?style=for-the-badge&labelColor=21262d&logoColor=141414"/></a>
-      </p>
-      <p><em>Spatial task orchestration tool replacing rigid lists with an infinite interactive canvas.</em></p>
-      <ul>
-        <li><b>Concept:</b> Spatial organization reducing cognitive friction for power users.</li>
-        <li><b>UX/UI:</b> Designed end-to-end in Figma following custom ergonomic design tokens.</li>
-        <li><b>Stage:</b> Active closed beta testing with direct user feedback cycles.</li>
-        <li><b>Stack:</b> High-performance front-end architecture with TypeScript.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Vue.js-21262d?style=flat-square&logoColor=26be61&logo=vuedotjs"/>
-        <img src="https://img.shields.io/badge/TypeScript-21262d?style=flat-square&logoColor=26be61&logo=typescript"/>
-        <img src="https://img.shields.io/badge/Figma-21262d?style=flat-square&logoColor=26be61&logo=figma"/>
-      </p>
-      <p><a href="https://canvas-task-tracker.victorfurtyy.com/"><b>🔗 Open App: canvas-task-tracker.victorfurtyy.com</b></a></p>
+      <a href="https://canvas-task-tracker.victorfurtyy.com/" target="_blank">
+        <img src="./assets/cards/project-canvas-tracker.svg" width="100%" alt="Canvas Task Tracker" />
+      </a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <p><img src="https://img.shields.io/badge/Mobile_Solutions_%26_PWAs-21262d?style=for-the-badge&logo=android&logoColor=26be61"/></p>
-      <p><em>Cross-platform mobile applications and operational dashboards engineered for digital agency clients.</em></p>
-      <ul>
-        <li><b>Mobile:</b> Multi-platform deployment (iOS / Android) with Ionic & Capacitor.</li>
-        <li><b>PWAs:</b> Built lightweight management dashboards with offline-first capabilities.</li>
-        <li><b>UX Journey:</b> User interviews, wireframing, and interactive prototyping.</li>
-        <li><b>APIs:</b> REST API integration with real-time device sensor hooks.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Angular-21262d?style=flat-square&logoColor=26be61&logo=angular"/>
-        <img src="https://img.shields.io/badge/Ionic-21262d?style=flat-square&logoColor=26be61&logo=ionic"/>
-        <img src="https://img.shields.io/badge/Capacitor-21262d?style=flat-square&logoColor=26be61&logo=capacitor"/>
-      </p>
-      <p><sub>🔒 <i>Agency client work — built for client operations</i></sub></p>
+      <img src="./assets/cards/project-mobile-apps.svg" width="100%" alt="Mobile Solutions & Client PWAs" />
     </td>
     <td width="50%" valign="top">
-      <p><a href="https://victorfurtyy.com"><img src="https://img.shields.io/badge/Developer_Console_%26_Portfolio-21262d?style=for-the-badge&logo=googlechrome&logoColor=26be61"/></a></p>
-      <p><em>Personal brand hub embodying the Emerald-Cyber aesthetic and technical console specification.</em></p>
-      <ul>
-        <li><b>Design System:</b> High-contrast ergonomics, Space Grotesk typography, and emerald accents.</li>
-        <li><b>Accessibility:</b> WCAG AA compliant dark-mode first interface.</li>
-        <li><b>Showcase:</b> Interactive portfolio highlighting case studies and architecture decisions.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Vue.js-21262d?style=flat-square&logoColor=26be61&logo=vuedotjs"/>
-        <img src="https://img.shields.io/badge/TypeScript-21262d?style=flat-square&logoColor=26be61&logo=typescript"/>
-        <img src="https://img.shields.io/badge/Figma-21262d?style=flat-square&logoColor=26be61&logo=figma"/>
-      </p>
-      <p><a href="https://victorfurtyy.com"><b>🔗 Visit Site: victorfurtyy.com</b></a></p>
+      <a href="https://victorfurtyy.com" target="_blank">
+        <img src="./assets/cards/project-portfolio.svg" width="100%" alt="Developer Console & Portfolio" />
+      </a>
     </td>
   </tr>
 </table>
