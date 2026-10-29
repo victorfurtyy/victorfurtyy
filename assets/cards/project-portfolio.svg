@@ -3,15 +3,16 @@
     <style>
       .bg { fill: #141414; stroke: #26be61; stroke-width: 1.5; rx: 10px; }
       .eyebrow { font-family: 'Space Grotesk', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 10px; font-weight: 700; fill: #26be61; letter-spacing: 0.14em; }
-      .title { font-family: 'Space Grotesk', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 17px; font-weight: 700; fill: #ffffff; }
+      .title { font-family: 'Space Grotesk', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 16.5px; font-weight: 700; fill: #ffffff; }
       .desc { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 11.5px; fill: #a8b0ab; }
       .bullet { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 11px; fill: #e0e0e0; }
       .bullet-icon { fill: #26be61; font-weight: bold; }
       .tag-bg { fill: #1a3d28; stroke: #26be61; stroke-opacity: 0.4; stroke-width: 1; rx: 4px; }
       .tag-text { font-family: 'Space Grotesk', -apple-system, BlinkMacSystemFont, sans-serif; font-size: 10px; font-weight: 600; fill: #33d975; }
-      .badge-bg { fill: #26be61; rx: 4px; }
-      .badge-text { font-family: 'Space Grotesk', -apple-system, BlinkMacSystemFont, sans-serif; font-size: 9.5px; font-weight: 700; fill: #08140d; letter-spacing: 0.08em; }
-      .link-text { font-family: 'Space Grotesk', -apple-system, BlinkMacSystemFont, sans-serif; font-size: 10px; font-weight: 600; fill: #26be61; }
+      .badge-bg { fill: #1a3d28; stroke: #26be61; stroke-opacity: 0.5; stroke-width: 1; rx: 4px; }
+      .badge-text { font-family: 'Space Grotesk', -apple-system, BlinkMacSystemFont, sans-serif; font-size: 9.5px; font-weight: 700; fill: #26be61; letter-spacing: 0.08em; }
+      .cta-btn { fill: #26be61; rx: 5px; }
+      .cta-text { font-family: 'Space Grotesk', -apple-system, BlinkMacSystemFont, sans-serif; font-size: 11px; font-weight: 700; fill: #08140d; letter-spacing: 0.04em; }
     </style>
   </defs>
 
@@ -21,12 +22,18 @@
   <!-- Eyebrow -->
   <text x="20" y="28" class="eyebrow">// PERSONAL BRAND CONSOLE</text>
 
-  <!-- Status Badge -->
-  <rect x="290" y="15" width="110" height="20" class="badge-bg" />
-  <text x="345" y="29" class="badge-text" text-anchor="middle">LIVE PRODUCTION ↗</text>
+  <!-- Status Badge with ample room -->
+  <rect x="295" y="14" width="105" height="22" class="badge-bg" />
+  <text x="347" y="29" class="badge-text" text-anchor="middle">PRODUCTION</text>
+
+  <!-- Title Icon (Terminal / Console Prompt) -->
+  <g transform="translate(20, 39)">
+    <path d="M2 3.5 L7.5 8 L2 12.5" fill="none" stroke="#26be61" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
+    <line x1="9.5" y1="12.5" x2="16" y2="12.5" stroke="#26be61" stroke-width="1.8" stroke-linecap="round" />
+  </g>
 
   <!-- Title -->
-  <text x="20" y="54" class="title">Developer Portfolio Console</text>
+  <text x="44" y="54" class="title">Developer Portfolio Console</text>
 
   <!-- Description -->
   <text x="20" y="74" class="desc">Personal brand hub embodying the Emerald-Cyber aesthetic specification.</text>
@@ -39,26 +46,24 @@
     <text x="0" y="54" class="bullet"><tspan class="bullet-icon">✦ </tspan>Interactive case studies &amp; lightweight reactive component architecture</text>
   </g>
 
-  <!-- Tech Tags -->
-  <g transform="translate(20, 184)">
+  <!-- Bottom Row: Tech Tags on left, Bold High-Contrast CTA Button on right -->
+  <g transform="translate(20, 182)">
     <!-- Vue.js -->
-    <rect x="0" y="0" width="56" height="22" class="tag-bg" />
-    <text x="28" y="15" class="tag-text" text-anchor="middle">Vue.js</text>
+    <rect x="0" y="0" width="56" height="24" class="tag-bg" />
+    <text x="28" y="16" class="tag-text" text-anchor="middle">Vue.js</text>
 
     <!-- TypeScript -->
-    <rect x="64" y="0" width="76" height="22" class="tag-bg" />
-    <text x="102" y="15" class="tag-text" text-anchor="middle">TypeScript</text>
-
-    <!-- Design Tokens -->
-    <rect x="148" y="0" width="90" height="22" class="tag-bg" />
-    <text x="193" y="15" class="tag-text" text-anchor="middle">Design Tokens</text>
+    <rect x="64" y="0" width="76" height="24" class="tag-bg" />
+    <text x="102" y="16" class="tag-text" text-anchor="middle">TypeScript</text>
 
     <!-- Figma -->
-    <rect x="246" y="0" width="54" height="22" class="tag-bg" />
-    <text x="273" y="15" class="tag-text" text-anchor="middle">Figma</text>
+    <rect x="148" y="0" width="44" height="24" class="tag-bg" />
+    <text x="170" y="16" class="tag-text" text-anchor="middle">Figma</text>
+  </g>
 
-    <!-- Link hint -->
-    <text x="380" y="15" class="link-text" text-anchor="end">Visit Site ↗</text>
+  <!-- CTA Button: Highly Visible Emerald Button -->
+  <g transform="translate(295, 180)">
+    <rect x="0" y="0" width="105" height="28" class="cta-btn" />
+    <text x="52" y="18" class="cta-text" text-anchor="middle">VISIT SITE ↗</text>
   </g>
 </svg>
-
