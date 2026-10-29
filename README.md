@@ -46,13 +46,11 @@ I am a **Full Stack Developer and Tech Lead with over 4 years of experience** ar
 ### `// 02. CORE STRENGTHS`
 ## ◈ What I Bring To The Team
 
-<table>
-  <tr>
-    <td width="33%" valign="top"><img src="./assets/cards/strength-frontend.svg" width="100%" alt="Front-End Architecture" /></td>
-    <td width="33%" valign="top"><img src="./assets/cards/strength-design.svg" width="100%" alt="Product & UX Design" /></td>
-    <td width="33%" valign="top"><img src="./assets/cards/strength-leadership.svg" width="100%" alt="Tech Leadership & Delivery" /></td>
-  </tr>
-</table>
+<div align="center">
+  <img src="./assets/cards/strength-frontend.svg" width="32.5%" alt="Front-End Architecture" />
+  <img src="./assets/cards/strength-design.svg" width="32.5%" alt="Product & UX Design" />
+  <img src="./assets/cards/strength-leadership.svg" width="32.5%" alt="Tech Leadership & Delivery" />
+</div>
 
 ---
 
@@ -100,28 +98,19 @@ I am a **Full Stack Developer and Tech Lead with over 4 years of experience** ar
 ### `// 04. FEATURED WORK`
 ## ◈ Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="./assets/cards/project-geolocation.svg" width="100%" alt="Geolocation Management System" />
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://canvas-task-tracker.victorfurtyy.com/" target="_blank">
-        <img src="./assets/cards/project-canvas-tracker.svg" width="100%" alt="Canvas Task Tracker" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="./assets/cards/project-mobile-apps.svg" width="100%" alt="Mobile Solutions & Client PWAs" />
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://victorfurtyy.com" target="_blank">
-        <img src="./assets/cards/project-portfolio.svg" width="100%" alt="Developer Console & Portfolio" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="./assets/cards/project-geolocation.svg" width="49%" alt="Geolocation Management System" />
+  <a href="https://canvas-task-tracker.victorfurtyy.com/" target="_blank">
+    <img src="./assets/cards/project-canvas-tracker.svg" width="49%" alt="Canvas Task Tracker" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="./assets/cards/project-mobile-apps.svg" width="49%" alt="Mobile Solutions & Client PWAs" />
+  <a href="https://victorfurtyy.com" target="_blank">
+    <img src="./assets/cards/project-portfolio.svg" width="49%" alt="Developer Console & Portfolio" />
+  </a>
+</div>
 
 ---
 
