@@ -49,15 +49,15 @@ I am a **Full Stack Developer and Tech Lead with over 4 years of experience** ar
 <table>
   <tr>
     <td align="left" width="33%" valign="top">
-      <h4><img src="https://cdn.simpleicons.org/blueprint/26be61" width="16" height="16" align="center" /> Front-End Architecture</h4>
+      <p><img src="https://img.shields.io/badge/Front--End_Architecture-21262d?style=for-the-badge&logo=blueprint&logoColor=26be61"/></p>
       Building robust, component-driven applications with <b>Vue.js</b>, <b>Angular</b>, and <b>React</b>. Focused on state management, responsive patterns, modularity, and web performance.
     </td>
     <td align="left" width="33%" valign="top">
-      <h4><img src="https://cdn.simpleicons.org/figma/26be61" width="16" height="16" align="center" /> Product & UX Design</h4>
+      <p><img src="https://img.shields.io/badge/Product_%26_UX_Design-21262d?style=for-the-badge&logo=figma&logoColor=26be61"/></p>
       Bridging engineering and user experience. From user journey mapping in <b>Figma</b> to pixel-perfect design systems, cutting user cognitive load and interface mistakes.
     </td>
     <td align="left" width="33%" valign="top">
-      <h4><img src="https://cdn.simpleicons.org/git/26be61" width="16" height="16" align="center" /> Tech Leadership & Delivery</h4>
+      <p><img src="https://img.shields.io/badge/Tech_Leadership_%26_Delivery-21262d?style=for-the-badge&logo=git&logoColor=26be61"/></p>
       Led an engineering squad of 5 developers using structured <b>Gitflow</b>, sprint planning, rigorous code reviews, and proactive mentorship to drive timely releases.
     </td>
   </tr>
@@ -112,7 +112,7 @@ I am a **Full Stack Developer and Tech Lead with over 4 years of experience** ar
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><img src="https://cdn.simpleicons.org/googlemaps/26be61" width="18" height="18" align="center" /> Geolocation Management System</h3>
+      <p><img src="https://img.shields.io/badge/Geolocation_Management_System-21262d?style=for-the-badge&logo=googlemaps&logoColor=26be61"/></p>
       <p><em>Enterprise operational console with a 6-state workflow, refactored and maintained for a private engineering client.</em></p>
       <ul>
         <li><b>Leadership:</b> Directed 5 developers through Gitflow sprints.</li>
@@ -129,7 +129,10 @@ I am a **Full Stack Developer and Tech Lead with over 4 years of experience** ar
       <p><sub>🔒 <i>Production enterprise application — proprietary client code under NDA</i></sub></p>
     </td>
     <td width="50%" valign="top">
-      <h3><img src="https://cdn.simpleicons.org/trello/26be61" width="18" height="18" align="center" /> Canvas Task Tracker <a href="https://canvas-task-tracker.victorfurtyy.com/"><img src="https://img.shields.io/badge/Live_Beta-26be61?style=flat-square&labelColor=21262d&logoColor=141414"/></a></h3>
+      <p>
+        <a href="https://canvas-task-tracker.victorfurtyy.com/"><img src="https://img.shields.io/badge/Canvas_Task_Tracker-21262d?style=for-the-badge&logo=trello&logoColor=26be61"/></a>
+        <a href="https://canvas-task-tracker.victorfurtyy.com/"><img src="https://img.shields.io/badge/Live_Beta-26be61?style=for-the-badge&labelColor=21262d&logoColor=141414"/></a>
+      </p>
       <p><em>Spatial task orchestration tool replacing rigid lists with an infinite interactive canvas.</em></p>
       <ul>
         <li><b>Concept:</b> Spatial organization reducing cognitive friction for power users.</li>
@@ -147,7 +150,7 @@ I am a **Full Stack Developer and Tech Lead with over 4 years of experience** ar
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><img src="https://cdn.simpleicons.org/android/26be61" width="18" height="18" align="center" /> Mobile Solutions & Client PWAs</h3>
+      <p><img src="https://img.shields.io/badge/Mobile_Solutions_%26_PWAs-21262d?style=for-the-badge&logo=android&logoColor=26be61"/></p>
       <p><em>Cross-platform mobile applications and operational dashboards engineered for digital agency clients.</em></p>
       <ul>
         <li><b>Mobile:</b> Multi-platform deployment (iOS / Android) with Ionic & Capacitor.</li>
@@ -163,7 +166,7 @@ I am a **Full Stack Developer and Tech Lead with over 4 years of experience** ar
       <p><sub>🔒 <i>Agency client work — built for client operations</i></sub></p>
     </td>
     <td width="50%" valign="top">
-      <h3><img src="https://cdn.simpleicons.org/googlechrome/26be61" width="18" height="18" align="center" /> Developer Console & Portfolio</h3>
+      <p><a href="https://victorfurtyy.com"><img src="https://img.shields.io/badge/Developer_Console_%26_Portfolio-21262d?style=for-the-badge&logo=googlechrome&logoColor=26be61"/></a></p>
       <p><em>Personal brand hub embodying the Emerald-Cyber aesthetic and technical console specification.</em></p>
       <ul>
         <li><b>Design System:</b> High-contrast ergonomics, Space Grotesk typography, and emerald accents.</li>
