@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://victorfurtyy.com"><img src="https://img.shields.io/badge/Portfolio-victorfurtyy.com-21262d?style=for-the-badge&logo=googlechrome&logoColor=26be61&labelColor=21262d&color=26be61"/></a>
-  <a href="https://www.linkedin.com/in/victorfurtyy/"><img src="https://img.shields.io/badge/LinkedIn-Victor_Furtado-21262d?style=for-the-badge&logo=linkedin&logoColor=26be61&labelColor=21262d&color=26be61"/></a>
+  <a href="https://www.linkedin.com/in/victorfurtyy/"><img src="https://img.shields.io/badge/LinkedIn-Carlos_Furtado-21262d?style=for-the-badge&logo=linkedin&logoColor=26be61&labelColor=21262d&color=26be61"/></a>
   <a href="mailto:carlos.dasilva@jala.university"><img src="https://img.shields.io/badge/Email-Jala_University-21262d?style=for-the-badge&logo=gmail&logoColor=26be61&labelColor=21262d&color=26be61"/></a>
   <a href="https://discordapp.com/users/victorfurtyy"><img src="https://img.shields.io/badge/Discord-victorfurtyy-21262d?style=for-the-badge&logo=discord&logoColor=26be61&labelColor=21262d&color=26be61"/></a>
 </p>
